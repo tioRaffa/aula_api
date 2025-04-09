@@ -1,1 +1,1 @@
-from .view_inicio_api import *
+from .generic import *
